@@ -1,0 +1,12 @@
+1
+Aditya
+52000.0
+Fri Oct 16 17:06:56 EDT 2020
+2
+Hariom
+69500.0
+Sun Oct 18 04:41:56 EDT 2020
+3
+Tonyg
+50000.0
+Tue Oct 20 10:18:01 EDT 2020
